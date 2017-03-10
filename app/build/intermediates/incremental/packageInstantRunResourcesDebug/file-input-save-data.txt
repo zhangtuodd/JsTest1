@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Mar 10 10:57:23 CST 2017
+2.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\assets\\debug
+5.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ASSET
+4.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\assets\\debug
+count=7
+0.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ASSET
+6.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\assets\\debug\\jstest.html
+6.set=ANDROID_RESOURCE
+0.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\assets\\debug\\js_java_interaction.html
+0.set=ANDROID_RESOURCE

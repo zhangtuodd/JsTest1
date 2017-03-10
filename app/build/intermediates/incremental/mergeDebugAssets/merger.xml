@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\AS-WorkSpace\JsTest1\app\src\main\assets"><file name="jstest.html" path="G:\AS-WorkSpace\JsTest1\app\src\main\assets\jstest.html"/><file name="js_java_interaction.html" path="G:\AS-WorkSpace\JsTest1\app\src\main\assets\js_java_interaction.html"/></source><source path="G:\AS-WorkSpace\JsTest1\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\AS-WorkSpace\JsTest1\app\src\debug\assets"/></dataSet></merger>

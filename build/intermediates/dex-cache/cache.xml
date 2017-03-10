@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\AS-WorkSpace\JsTest1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="G:\AS-WorkSpace\JsTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_308f8c40ffa6d7b6089017dfdbf9ac355b6a4e77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS-WorkSpace\JsTest1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4287be7beb599522fcddbe7e9b215e6a8139f48a">
+        <dex dex="G:\AS-WorkSpace\JsTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_50d34e6f448889d75ea09013b6d5be23f8e88ba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\perfect_SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\AS-WorkSpace\JsTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_f50076627d36fb7a9c4b55c62a6a2268f5093277\classes.dex" />
+    </item>
+
+</items>

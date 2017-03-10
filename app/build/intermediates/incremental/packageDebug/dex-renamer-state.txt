@@ -1,0 +1,7 @@
+#Fri Mar 10 10:57:23 CST 2017
+base.0=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_308f8c40ffa6d7b6089017dfdbf9ac355b6a4e77
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50d34e6f448889d75ea09013b6d5be23f8e88ba2\\classes.dex
+base.1=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50d34e6f448889d75ea09013b6d5be23f8e88ba2
+file.0=G\:\\AS-WorkSpace\\JsTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_308f8c40ffa6d7b6089017dfdbf9ac355b6a4e77\\classes.dex
